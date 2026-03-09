@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-09T22:56:17.130090+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-03-10T00:02:21.816991+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "抖音",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "抖音电商：累计处置侵权仿冒达人账号1.1万个，处置仿冒带货商品超6700个",
-          "url": "https://wallstreetcn.com/livenews/3066432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Kforgithub/TrendRadar/img/news.jpg"
 }
