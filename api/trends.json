@@ -1,10 +1,7 @@
 {
-  "generated_at": "2026-04-22T13:31:55.562762+08:00",
-  "total_titles_processed": 952,
-  "failed_sources": [
-    "thepaper",
-    "jin10"
-  ],
+  "generated_at": "2026-04-22T15:55:12.064415+08:00",
+  "total_titles_processed": 1106,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://github.com/Kforgithub/TrendRadar/img/news.jpg"
 }
