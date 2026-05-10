@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-10T22:57:34.285842+08:00",
-  "total_titles_processed": 1283,
-  "failed_sources": [],
+  "generated_at": "2026-05-11T00:01:46.799095+08:00",
+  "total_titles_processed": 314,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/Kforgithub/TrendRadar/img/news.jpg"
 }
