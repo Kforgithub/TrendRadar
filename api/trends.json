@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-16T21:39:53.381256+08:00",
-  "total_titles_processed": 1298,
-  "failed_sources": [],
+  "generated_at": "2026-05-16T23:02:25.839921+08:00",
+  "total_titles_processed": 1379,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/Kforgithub/TrendRadar/img/news.jpg"
 }
