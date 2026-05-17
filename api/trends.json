@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-17T21:28:44.518748+08:00",
-  "total_titles_processed": 1143,
-  "failed_sources": [],
+  "generated_at": "2026-05-17T23:01:58.890097+08:00",
+  "total_titles_processed": 1243,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/Kforgithub/TrendRadar/img/news.jpg"
 }
