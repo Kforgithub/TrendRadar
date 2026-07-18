@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-18T13:31:37.729598+08:00",
-  "total_titles_processed": 855,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-07-18T15:57:25.133188+08:00",
+  "total_titles_processed": 1002,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://github.com/Kforgithub/TrendRadar/img/news.jpg"
 }
